@@ -1,3 +1,4 @@
+package ooplab.lab1;
 
 import java.util.Scanner;
 
