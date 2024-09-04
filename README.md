@@ -1,5 +1,5 @@
 # SEM3labs
 
-1.data structures lab/n
-2.object oriented programming lab/n
-3.digital systems design lab/n
+1.data structures lab<br/>
+2.object oriented programming lab<br/>
+3.digital systems design lab
